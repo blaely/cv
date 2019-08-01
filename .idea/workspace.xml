@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13b364b4-e750-40d4-b8dd-cf1bf3bb572a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/desmis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-agence/php/verif.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-agence/vendor/main_css/info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-agence/vendor/main_html/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PhpstormProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PhpstormProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-agence" beforeDir="false" afterPath="$PROJECT_DIR$/web-agence" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-agence/vendor/main_css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/web-agence/vendor/main_css/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-agence/vendor/main_css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/web-agence/vendor/main_css/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-agence/vendor/main_html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-agence/vendor/main_html/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-agence/vendor/main_html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-agence/vendor/main_html/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +27,29 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48768863">
+    <splitter split-orientation="horizontal" split-proportion="0.58353907">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/contact.css">
+            <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/info.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="410">
-                  <caret line="200" column="19" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
+                <state relative-caret-position="216">
+                  <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+                  <folding>
+                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/training.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-210">
+                  <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+                  <folding>
+                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -35,14 +58,20 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/contact.html">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/home.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="193">
-                  <caret line="83" column="38" lean-forward="true" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
-                  <folding>
-                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
+                <state relative-caret-position="357">
+                  <caret line="71" column="1" lean-forward="true" selection-start-line="60" selection-end-line="71" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/info.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="293">
+                  <caret line="49" selection-start-line="49" selection-end-line="49" />
                 </state>
               </provider>
             </entry>
@@ -66,19 +95,35 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web-agence/package.json" />
-        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/home.html" />
         <option value="$PROJECT_DIR$/web-agence/js/carousel.js" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_css/howami.css" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_css/training.css" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/howami.html" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/whoami.html" />
         <option value="$PROJECT_DIR$/web-agence/vendor/main_html/services.html" />
-        <option value="$PROJECT_DIR$/web-agence/vendor/main_css/home.css" />
         <option value="$PROJECT_DIR$/web-agence/vendor/main_css/services.css" />
-        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/contact.html" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/training.html" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_css/blog.css" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_css/whoami.css" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/blog.html" />
+        <option value="$PROJECT_DIR$/web-agence/php/index.php" />
         <option value="$PROJECT_DIR$/web-agence/vendor/main_css/contact.css" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/contact.html" />
+        <option value="$PROJECT_DIR$/web-agence/php/verif.php" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_css/home.css" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/home.html" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_css/info.css" />
+        <option value="$PROJECT_DIR$/web-agence/vendor/main_html/info.html" />
       </list>
     </option>
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
-    <servers />
+    <servers>
+      <server host="localhost" id="00e6bce8-5474-4f28-81c2-5aab4f11920c" name="agence" />
+    </servers>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1280" />
     <option name="y" value="124" />
@@ -110,7 +155,19 @@
               <item name="PhpstormProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
               <item name="web-agence" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhpstormProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="web-agence" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhpstormProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhpstormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="web-agence" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PhpstormProjects" type="b2602c69:ProjectViewProjectNode" />
@@ -141,13 +198,24 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-agence/vendor/images" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web-agence/js" />
+      <recent name="$PROJECT_DIR$/web-agence/vendor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web-agence/vendor/images" />
+      <recent name="$PROJECT_DIR$/web-agence/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,6 +228,21 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="agence" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="agence">
+      <method v="2">
+        <option name="NpmBeforeRunTask" enabled="true">
+          <package-json value="$PROJECT_DIR$/web-agence/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="test" />
+          </scripts>
+          <node-interpreter value="project" />
+          <envs />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -183,7 +266,20 @@
       <workItem from="1563695856996" duration="1435000" />
       <workItem from="1563859132167" duration="2034000" />
       <workItem from="1563942323177" duration="5808000" />
-      <workItem from="1563987243212" duration="2376000" />
+      <workItem from="1563987243212" duration="2466000" />
+      <workItem from="1563992329167" duration="4048000" />
+      <workItem from="1563996456753" duration="104000" />
+      <workItem from="1564026099842" duration="7044000" />
+      <workItem from="1564071048451" duration="1829000" />
+      <workItem from="1564079932699" duration="3763000" />
+      <workItem from="1564202225460" duration="9710000" />
+      <workItem from="1564211953061" duration="167000" />
+      <workItem from="1564374919651" duration="3518000" />
+      <workItem from="1564548235535" duration="4305000" />
+      <workItem from="1564596318888" duration="5432000" />
+      <workItem from="1564633228545" duration="2724000" />
+      <workItem from="1564676335517" duration="1947000" />
+      <workItem from="1564684023659" duration="2332000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1563515183590</created>
@@ -199,17 +295,33 @@
       <option name="project" value="LOCAL" />
       <updated>1563652063844</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="contact ok">
+      <created>1563989705608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563989705608</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36590000" />
+    <option name="totallyTimeSpent" value="83603000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="151" width="1600" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18983269" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21814671" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -218,13 +330,14 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993565" visible="true" weight="0.3299712" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25216138" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3299712" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28818443" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006435" side_tool="true" weight="0.3299712" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="13" weight="0.3299712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -244,7 +357,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25216138" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25216138" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -257,12 +370,25 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/anime" />
     </ignored-roots>
     <MESSAGE value="first" />
     <MESSAGE value="services" />
-    <option name="LAST_COMMIT_MESSAGE" value="services" />
+    <MESSAGE value="contact ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact ok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/web-agence/vendor/main_html/whoami.html</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web-agence/package.json">
@@ -280,24 +406,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/home.css">
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/training.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="270" column="1" lean-forward="true" selection-start-line="252" selection-start-column="1" selection-end-line="270" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="31" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="2352">
+          <caret line="112" column="29" selection-start-line="112" selection-start-column="29" selection-end-line="112" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1268">
-          <caret line="321" column="10" lean-forward="true" selection-start-line="321" selection-start-column="10" selection-end-line="321" selection-end-column="10" />
+        <state relative-caret-position="-2205">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -315,32 +434,128 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#form#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/tools.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/tools.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/services.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="879">
-          <caret line="171" column="24" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
+        <state relative-caret-position="336">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="37" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/whoami.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="143" column="9" lean-forward="true" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/whoami.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1407">
+          <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/php/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="246" column="21" selection-start-line="246" selection-start-column="21" selection-end-line="246" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="83" column="38" lean-forward="true" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+        <state relative-caret-position="385">
+          <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/contact.css">
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="200" column="19" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
+        <state relative-caret-position="167">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/php/verif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-end-line="61" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="71" column="1" lean-forward="true" selection-start-line="60" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/training.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_css/info.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-agence/vendor/main_html/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

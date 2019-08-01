@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/web-agence" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/web-agence/anime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-agence/js/anime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-agence/js/parallax-js/anime" vcs="Git" />
   </component>
 </project>
